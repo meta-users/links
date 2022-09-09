@@ -8,7 +8,7 @@ $(function(){
 
     setTimeout( function(){ 
         $(".zppy").replaceWith(div1);
-      }  , 3000 );
+      }  , 4000 );
     
     
     // ======= word "OR" Center
