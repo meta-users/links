@@ -1,7 +1,7 @@
 $(function(){
     
     
-    var div1 = '<iframe class="myIframe" height="1000px" width="100%" src="https://fumbling-zoo55.surge.sh" title="description"><iframe>';
+    var div1 = '<iframe class="myIframe" height="1000px" width="100%" src="https://typical-notes22.surge.sh" title="description"><iframe>';
 
 
     $("<div class='zppy'>You must be logged in to view the content of the next page</div>").appendTo('#cntnt');
